@@ -4,7 +4,7 @@
 
 ## Short-cut Keys
 
-<img align="right" src="image.png" width=450>
+<img align="right" src="https://github.com/user-attachments/assets/ebaf3b23-f2ed-4757-9f15-49384cd5b137" width=450>
 <br>
   -> "<b>Ctrl + S</b>" Save<br>
   -> "<b>Ctrl + N</b>"<br>
@@ -16,8 +16,6 @@
 
 ## Pre-View
 <p align="center">
-![image](https://github.com/user-attachments/assets/ebaf3b23-f2ed-4757-9f15-49384cd5b137)
-
-  <img src="" width=450>
+  <img src="image.png" width=450>
 
 </p>
