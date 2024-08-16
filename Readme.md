@@ -5,7 +5,7 @@
 ## Short-cut Keys
 
 <img align="right" src="image.png" width=450>
-
+<br>
   -> "<b>Ctrl + S</b>" Save<br>
   -> "<b>Ctrl + N</b>"<br>
   -> "<b>Ctrl + O</b>"<br>
