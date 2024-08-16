@@ -3,18 +3,16 @@
 ## Introduction
 
 ## Short-cut Keys
-<ul>
-  <li>"<b>Ctrl + S</b>"</li>
-  <li>"<b>Ctrl + N</b>"</li>
-  <li>"<b>Ctrl + O</b>"</li>
-  <li>"<b>Ctrl + F</b>"</li>
-  <li>"<b>Ctrl + W</b>"</li>
-  <li>"<b>Shift + F10</b>"</li>
-  <li>"<b>Ctrl + Space</b>"</li>
-</ul>
-<p align="right">
-Save
-</p>
+
+<img align="right" src="image.png" width=450>
+
+  -> "<b>Ctrl + S</b>" Save<br>
+  -> "<b>Ctrl + N</b>"<br>
+  -> "<b>Ctrl + O</b>"<br>
+  -> "<b>Ctrl + F</b>"<br>
+  -> "<b>Ctrl + W</b>"<br>
+  -> "<b>Shift + F10</b>"<br>
+  -> "<b>Ctrl + Space</b>"<br>
 
 ## Pre-View
 <p align="center">
