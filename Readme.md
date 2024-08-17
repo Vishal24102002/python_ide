@@ -27,7 +27,7 @@
 <b>step-3 : </b><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now you are ready to go. Enoy the IDE <br>
 
 <p align="center">
-<caption >Contact Details</caption>
+<caption ><font size=25><b>Contact Details</b></font></caption>
 <table align="center">
    <tr>
       <th>
