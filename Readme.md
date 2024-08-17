@@ -1,6 +1,17 @@
 # Python_IDE
 
 ## Introduction
+<br>
+Welcome to My <b>Python IDE</b>, a simple yet powerful integrated development environment designed with passion and curiosity. This IDE was developed as a personal project to deepen my understanding of Python and explore the application of various programming concepts.
+<br>
+<br>
+Built from the ground up, My Python IDE offers a clean and intuitive interface, allowing you to write, test, and debug your Python code efficiently. Whether you're a beginner exploring Python or an experienced developer looking for a lightweight tool, this IDE provides a seamless coding experience.
+<br>
+<br>
+Through this project, I aimed to combine my love for coding with the challenge of creating something functional and educational. My Python IDE reflects my journey in learning and applying concepts like GUI development, file handling, syntax highlighting, and more.
+<br>
+<br>
+<br>
 
 ## Short-cut<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keys
 <img align="right" src="https://github.com/user-attachments/assets/69ed6856-e13d-446a-bd7f-78298cd22f0f" width=250>
@@ -28,7 +39,7 @@
 
 <p align="center">
 <caption ><font size=25><b>Contact Details</b></font></caption>
-<table align="center">
+<table align="center" style="border: 5px solid white;">
    <tr>
       <th>
          Name
