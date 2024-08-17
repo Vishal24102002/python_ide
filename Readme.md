@@ -20,3 +20,30 @@
 <img align="center" src="image.png" width=450><br>
     <b><u>Editor</u></b><br><br>
 </p>
+
+## Set-Up<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDE
+<b>step-1 : </b><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the Folder in zip format and extract the files <br>
+<b>step-2 : </b><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;open main folder and then add the main file to your desktop <br>
+<b>step-3 : </b><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now you are ready to go. Enoy the IDE <br>
+
+<p align="center">
+<caption >Contact Details</caption>
+<table align="center">
+   <tr>
+      <th>
+         Name
+      </th>
+      <th>
+         Email
+      </th>
+      <th>
+         Role
+      </th>
+   </tr>
+   <tr>
+      <td>VISHAL SHARMA</td>
+      <td>vishalsharma659615@gmail.com</td>
+      <td>Python Developer</td>
+   </tr>
+</table>
+</p>
